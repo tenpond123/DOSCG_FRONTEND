@@ -3,9 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## HOW TO RUN PROJECT
 
-First at all,You have to run DOSCG_API(Express.js) before run this project
+First at all,You have to run DOSCG_API(Express.js) before run this project.
 
-when you run DOSCG_API then you can run the development server with this command:
+When DOSCG_API running.You must run "npm install" on this project for install node_modules
+
+After you run DOSCG_API and install node_module, you can run the development server with this command:
 
 ```bash
 npm run dev
