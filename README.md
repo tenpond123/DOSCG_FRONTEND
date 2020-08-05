@@ -1,9 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## FRONTEND TESTING (DOSCG)
 
-## Getting Started
+## HOW TO RUN PROJECT
 
-First, run the development server:
+First at all,You have to run DOSCG_API(Express.js) before run this project
+
+when you run DOSCG_API then you can run the development server with this command:
 
 ```bash
 npm run dev
