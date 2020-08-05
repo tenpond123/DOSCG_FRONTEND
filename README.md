@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## HOW TO RUN PROJECT
 
+:warning: **DO THIS BEFORE RUN PROJECT**
 First at all,You have to run DOSCG_API(Express.js) before run this project.
 
 When DOSCG_API running.You must run "npm install" on this project for install node_modules
